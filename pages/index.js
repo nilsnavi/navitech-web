@@ -16,6 +16,7 @@ export default function Home() {
       </p>
       <div style={{ marginTop: '2rem', padding: '1rem', backgroundColor: '#f0f0f0', borderRadius: '8px' }}>
         <p>✅ Приложение работает!</p>
+        <p style={{ marginTop: '0.5rem', fontSize: '0.9rem', color: '#888' }}>health: /api/health</p>
       </div>
     </div>
   )
